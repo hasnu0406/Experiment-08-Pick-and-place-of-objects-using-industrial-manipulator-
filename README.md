@@ -81,34 +81,29 @@ and click on the connect icon
 
 3. click on the 
 
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/ff347da8-5f35-4dc0-889a-7f3e1e58135a)
+
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/c65fa310-2e11-4fc0-a44e-36cba11845d3)
+
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/19100216-6aba-4fd0-8e37-e7cec89c4d72)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/076c922d-5826-4a10-b8ce-78cece93faff)
 
 ### output video and screen shots of pick and place 
 
+https://drive.google.com/file/d/1OJ1cCXZjfVtLcF5L2ySBzs79Q_XpjoNa/view?usp=drivesdk
+
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/10499f5b-376e-47af-b03b-86fe16b07d43)
 
 
-
+![image](https://github.com/hasnu0406/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135305537/b4ee2424-6544-4636-af21-246bb66859dc)
 
 
 
 ### Results: 
 
-
+Thus the pick and place operation has been successfully executed by industrial robot.
 
 
 
